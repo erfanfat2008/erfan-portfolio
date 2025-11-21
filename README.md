@@ -1,36 +1,50 @@
-# Portfolio عرفان فتحعلی‌زاده
+# عرفان فتحعلی‌زاده — Front-End Developer
 
-سلام! این نمونه صفحهٔ Portfolio من است.
+سلام! من عرفان فتحعلی‌زاده هستم، توسعه‌دهنده Front-End با علاقه به طراحی صفحات وب واکنش‌گرا، لندینگ پیج‌های جذاب و اپلیکیشن‌های کوچک.  
+این مخزن شامل **نمونه‌کارها و پروژه‌های من** است که می‌توانید مشاهده و بررسی کنید.
 
-```html
-<!doctype html>
-<html lang="fa" dir="rtl">
-<head>
-  <meta charset="utf-8" />
-  <meta name="viewport" content="width=device-width,initial-scale=1" />
-  <title>عرفان فتحعلی‌زاده — Developer Portfolio</title>
-  <link href="https://fonts.googleapis.com/css2?family=Inter:wght@300;400;600;700;800&display=swap" rel="stylesheet">
-  <meta name="description" content="پورتفولیو عرفان فتحعلی‌زاده — توسعه‌دهنده فرانت‌اند. پروژه‌ها، خدمات و تماس." />
-  <style>
-    /* استایل‌ها همان‌طور که در فایل index.html بود */
-    body { font-family: Inter, system-ui, sans-serif; background: #0f1724; color: #e6eef6; }
-    .card { background: rgba(255,255,255,0.02); padding: 18px; border-radius: 14px; }
-    /* ... بقیه استایل‌ها ... */
-  </style>
-</head>
-<body>
-  <div class="container">
-    <header>
-      <h1>عرفان فتحعلی‌زاده</h1>
-      <p>Front-End Developer & Web Enthusiast</p>
-    </header>
+---
 
-    <main>
-      <section class="card">
-        <h2>سلام — من عرفان هستم</h2>
-        <p>من صفحات وب واکنش‌گرا و اپلیکیشن‌های کوچک می‌سازم.</p>
-      </section>
-    </main>
-  </div>
-</body>
-</html>
+## 🔹 نمونه پروژه‌ها
+
+### 1. لندینگ پیج فروشگاهی
+- توضیحات: صفحه فرود تک‌صفحه‌ای با فرم تماس و بخش معرفی محصول.
+- **Live Demo:** [مشاهده آنلاین](https://yourusername.github.io/erfan-portfolio/projects/landing.html)  
+- **Code:** [گیت‌هاب](https://github.com/yourusername/erfan-portfolio/blob/main/projects/landing.html)
+
+### 2. To-Do App
+- توضیحات: اپ ساده مدیریت کارها با LocalStorage و رابط کاربری جمع‌وجور.
+- **Live Demo:** [مشاهده آنلاین](https://yourusername.github.io/erfan-portfolio/projects/todo.html)  
+- **Code:** [گیت‌هاب](https://github.com/yourusername/erfan-portfolio/blob/main/projects/todo.html)
+
+### 3. ماشین‌حساب
+- توضیحات: ماشین‌حساب پایه با طراحی لمسی و واکنش‌گرا.
+- **Live Demo:** [مشاهده آنلاین](https://yourusername.github.io/erfan-portfolio/projects/calculator.html)  
+- **Code:** [گیت‌هاب](https://github.com/yourusername/erfan-portfolio/blob/main/projects/calculator.html)
+
+### 4. وب‌اپ هواشناسی
+- توضیحات: نمایش داده‌های آب‌وهوا از API (نمونه آماده برای توسعه بیشتر).
+- **Live Demo:** [مشاهده آنلاین](https://yourusername.github.io/erfan-portfolio/projects/weather.html)  
+- **Code:** [گیت‌هاب](https://github.com/yourusername/erfan-portfolio/blob/main/projects/weather.html)
+
+---
+
+## 🔹 خدمات من
+- طراحی و توسعه لندینگ پیج‌ها  
+- طراحی صفحات فروشگاهی  
+- پیاده‌سازی فرم‌ها و اپلیکیشن‌های کوچک  
+- رفع باگ و بهینه‌سازی رابط کاربری  
+
+---
+
+## 🔹 تماس
+- ایمیل: your.email@example.com  
+- تلگرام: [@erfan_dev](https://t.me/erfan_dev)  
+- GitHub: [https://github.com/yourusername](https://github.com/yourusername)  
+- Portfolio آنلاین: [مشاهده نسخه آنلاین](https://yourusername.github.io/erfan-portfolio)
+
+---
+
+## 🔹 نکات
+- تمامی پروژه‌ها واکنش‌گرا و آماده نمایش برای کارفرما هستند.  
+- برای مشاهده Live Demo و استایل واقعی، حتما از لینک‌های آنلاین استفاده کنید.
